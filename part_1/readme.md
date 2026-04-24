@@ -1,1 +1,1 @@
-Файли для частини 1
+Files for final project (part 1)
