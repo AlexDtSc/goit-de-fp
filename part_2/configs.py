@@ -1,0 +1,1 @@
+tables = ["athlete_bio", "athlete_event_results"] 
